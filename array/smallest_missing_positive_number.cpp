@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//
 void smallest_missing_pnumber(int arr[], int n)
 {
     bool array[n];
